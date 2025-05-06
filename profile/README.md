@@ -66,7 +66,7 @@ UMBRELLA is a high-level tactical assistant designed for Dota 2 players who seek
 *Automated and context-aware ward suggestions with enemy movement heatmap.*
 
 **3. Cooldown & Objective Panel**  
-![Map Info Panel](https://www.ownedcore.com/forums/attachments/mmo-trading-market/mog-buy-sell-trade/dota-2-buy-sell-trade/80094d1644427441-umbrella-private-hack-dota-2-combo-skinchanger-500-scripts-4jjoey1ijm8-jpg)  
+![Map Info Panel](https://digiseller.mycdn.ink/imgwebp.ashx?idp=3695104&dc=645926400&w=576)  
 *Mini-panel showing rune timers, Roshan status, and cooldowns across the map.*
 
 ---
